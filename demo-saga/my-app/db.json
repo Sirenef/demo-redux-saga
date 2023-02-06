@@ -1,0 +1,21 @@
+{
+  "users": [
+    { "id": 1, "name": "Bui Ngoc Anh" },
+    {
+      "id": 2,
+      "name": "Nguyen Hoang Nhat Nam"
+    },
+    {
+      "id": 3,
+      "name": "Nguyen Huynh Thanh Toan"
+    },
+    {
+      "id": 4,
+      "name": "Tran Minh Gia Khanh"
+    },
+    {
+      "id": 5,
+      "name": "Bui Minh Khanh"
+    }
+  ]
+}
